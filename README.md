@@ -24,7 +24,7 @@ A public portfolio with practical artefacts for realistic AI use cases:
 - GenAI banking assistant governance pack;
 - EU AI Act readiness pack for a simulated European bank.
 
-Repository: `[[add link here](https://github.com/ThomasDelatte/ai-governance-portfolio)]`
+Repository: `[ai-governance-portfolio](https://github.com/ThomasDelatte/ai-governance-portfolio)`
 <!--
 **ThomasDelatte/ThomasDelatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
